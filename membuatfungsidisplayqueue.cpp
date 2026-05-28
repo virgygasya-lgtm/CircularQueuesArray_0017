@@ -61,3 +61,5 @@ else
         FRONT = FRONT + 1;
 }
 }
+void display()
+{
