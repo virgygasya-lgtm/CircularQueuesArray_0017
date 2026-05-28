@@ -39,3 +39,5 @@ else
 }
 queue_array[REAR] = num;
 }
+void remove()
+{
